@@ -12,13 +12,12 @@ import Foundation
 class ViewController: UIViewController {
     @IBOutlet open weak var nameLbl: UILabel!
     @IBOutlet open weak var addressLbl: UILabel!
-    
     @IBOutlet weak var headLbl: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        let semaphore = DispatchSemaphore(value: 1)
-       
-        for i in 1...20{
+      
+        
             HTTP(apiURLType: .name) { (data, error) in
                 print(data)
             }
@@ -29,13 +28,17 @@ class ViewController: UIViewController {
             
             HTTP(apiURLType: .head) { (data, error) in
                 print(data)
-            }
+            
         }
     }
+
+    let dispatchGroup = DispatchGroup()
     
     typealias Name = (String?,Error) -> Void
-    let semaphore = DispatchSemaphore(value: 1)
+   // let semaphore = DispatchSemaphore(value: 1)
     func HTTP(apiURLType:apiUrl, completion:@escaping Name) {
+        
+       
         
         let request = NSMutableURLRequest(url: NSURL(string: "\(apiURLType.rawValue)")! as URL)
         
@@ -43,7 +46,7 @@ class ViewController: UIViewController {
         let session = URLSession.shared
 
         let dataTask = session.dataTask(with: request as URLRequest, completionHandler: { (data, response, error) -> Void in
-            
+           
             if (error != nil) {
                 print(error)
                 completion(nil, HTTPError.Error)
@@ -53,43 +56,38 @@ class ViewController: UIViewController {
                 let returndata = String(decoding: data!, as: UTF8.self)
                 completion(returndata,HTTPError.Error)
                 
-                self.semaphore.signal()
-                
-                DispatchQueue.main.async {
+                self.dispatchGroup.leave()
+    
+                self.dispatchGroup.notify(queue: .main, execute: {
                     switch apiURLType {
-          
+                        
                     case .name:
                         
                         self.nameLbl.text = returndata
                         
                     case .address:
-                       
+                        
                         self.addressLbl.text = returndata
                         
                     case .head:
-                       
+                        
                         self.headLbl.text = returndata
                         
                     }
-    
-                }
+                })
+              
                 
             }
             
         })
         
-        semaphore.wait()
+     //   semaphore.wait()
+        self.dispatchGroup.enter()
         dataTask.resume()
        
     }
 }
 
-public enum DispatchTimeoutResult {
-    
-    case success
-    
-    case timedOut
-}
 
 enum apiUrl:String {
     case name = "https://stations-98a59.firebaseio.com/name.json"

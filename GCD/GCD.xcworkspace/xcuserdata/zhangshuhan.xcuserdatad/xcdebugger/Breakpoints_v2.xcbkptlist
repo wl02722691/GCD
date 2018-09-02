@@ -10,11 +10,203 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GCD/ViewController.swift"
-            timestampString = "557415420.10247"
+            timestampString = "557596420.700662"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "56"
-            endingLineNumber = "56"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GCD.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "GCD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhangshuhan/Desktop/GCD/GCD/GCD/ViewController.swift"
+                  timestampString = "557596420.915792"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Error) -&gt; () in GCD.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "GCD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhangshuhan/Desktop/GCD/GCD/GCD/ViewController.swift"
+                  timestampString = "557596420.918401"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GCD/ViewController.swift"
+            timestampString = "557596420.702601"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GCD/ViewController.swift"
+            timestampString = "557596420.703137"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GCD.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "GCD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhangshuhan/Desktop/GCD/GCD/GCD/ViewController.swift"
+                  timestampString = "557596420.971318"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "137">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.String&gt;, Swift.Error) -&gt; () in GCD.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "GCD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhangshuhan/Desktop/GCD/GCD/GCD/ViewController.swift"
+                  timestampString = "557596420.974452"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GCD/ViewController.swift"
+            timestampString = "557596420.703871"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GCD/ViewController.swift"
+            timestampString = "557596420.704639"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GCD.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "GCD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhangshuhan/Desktop/GCD/GCD/GCD/ViewController.swift"
+                  timestampString = "557596421.046084"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "194">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Optional&lt;Swift.String&gt;, Swift.Error) -&gt; () in GCD.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "GCD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhangshuhan/Desktop/GCD/GCD/GCD/ViewController.swift"
+                  timestampString = "557596421.049111"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GCD/ViewController.swift"
+            timestampString = "557596420.705503"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GCD/ViewController.swift"
+            timestampString = "557596420.706494"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
             landmarkName = "HTTP(apiURLType:completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -26,43 +218,59 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GCD/ViewController.swift"
-            timestampString = "557415420.103336"
+            timestampString = "557596420.708281"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "22"
-            endingLineNumber = "22"
-            landmarkName = "viewDidLoad()"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "HTTP(apiURLType:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GCD/ViewController.swift"
+            timestampString = "557596420.709165"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "HTTP(apiURLType:completion:)"
             landmarkType = "7">
             <Locations>
                <Location
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "GCD.ViewController.viewDidLoad() -&gt; ()"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__ObjC.URLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in GCD.ViewController.HTTP(apiURLType: GCD.apiUrl, completion: (Swift.Optional&lt;Swift.String&gt;, Swift.Error) -&gt; ()) -&gt; ()"
                   moduleName = "GCD"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/zhangshuhan/Desktop/GCD/GCD/GCD/ViewController.swift"
-                  timestampString = "557415420.18522"
+                  timestampString = "557596421.172318"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "22"
-                  endingLineNumber = "22"
-                  offsetFromSymbolStart = "341">
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "1421">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Error) -&gt; () in GCD.ViewController.viewDidLoad() -&gt; ()"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__ObjC.URLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in GCD.ViewController.HTTP(apiURLType: GCD.apiUrl, completion: (Swift.Optional&lt;Swift.String&gt;, Swift.Error) -&gt; ()) -&gt; ()"
                   moduleName = "GCD"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/zhangshuhan/Desktop/GCD/GCD/GCD/ViewController.swift"
-                  timestampString = "557415420.191864"
+                  timestampString = "557596421.175637"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "23"
-                  endingLineNumber = "23"
-                  offsetFromSymbolStart = "40">
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "36">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -74,45 +282,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GCD/ViewController.swift"
-            timestampString = "557415420.104084"
+            timestampString = "557596420.7099299"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "26"
-            endingLineNumber = "26"
-            landmarkName = "viewDidLoad()"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "HTTP(apiURLType:completion:)"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "GCD.ViewController.viewDidLoad() -&gt; ()"
-                  moduleName = "GCD"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/zhangshuhan/Desktop/GCD/GCD/GCD/ViewController.swift"
-                  timestampString = "557415420.2229871"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "26"
-                  endingLineNumber = "26"
-                  offsetFromSymbolStart = "392">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #2 (Swift.Optional&lt;Swift.String&gt;, Swift.Error) -&gt; () in GCD.ViewController.viewDidLoad() -&gt; ()"
-                  moduleName = "GCD"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/zhangshuhan/Desktop/GCD/GCD/GCD/ViewController.swift"
-                  timestampString = "557415420.227798"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "27"
-                  endingLineNumber = "27"
-                  offsetFromSymbolStart = "40">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -122,45 +298,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GCD/ViewController.swift"
-            timestampString = "557415420.104865"
+            timestampString = "557596420.710642"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "30"
-            endingLineNumber = "30"
-            landmarkName = "viewDidLoad()"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "HTTP(apiURLType:completion:)"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "GCD.ViewController.viewDidLoad() -&gt; ()"
-                  moduleName = "GCD"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/zhangshuhan/Desktop/GCD/GCD/GCD/ViewController.swift"
-                  timestampString = "557415420.262996"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "30"
-                  endingLineNumber = "30"
-                  offsetFromSymbolStart = "447">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #3 (Swift.Optional&lt;Swift.String&gt;, Swift.Error) -&gt; () in GCD.ViewController.viewDidLoad() -&gt; ()"
-                  moduleName = "GCD"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/zhangshuhan/Desktop/GCD/GCD/GCD/ViewController.swift"
-                  timestampString = "557415420.271106"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "31"
-                  endingLineNumber = "31"
-                  offsetFromSymbolStart = "40">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -170,11 +314,27 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GCD/ViewController.swift"
-            timestampString = "557415428.88234"
+            timestampString = "557596420.711356"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "81"
-            endingLineNumber = "81"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "HTTP(apiURLType:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GCD/ViewController.swift"
+            timestampString = "557596420.712083"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
             landmarkName = "HTTP(apiURLType:completion:)"
             landmarkType = "7">
          </BreakpointContent>
